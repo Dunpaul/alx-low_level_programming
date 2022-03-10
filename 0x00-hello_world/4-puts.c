@@ -4,7 +4,8 @@
  * main - Prints a string about programming
  * Return - 0
  */
-void main(void)
+int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
+	return (0);
 }
