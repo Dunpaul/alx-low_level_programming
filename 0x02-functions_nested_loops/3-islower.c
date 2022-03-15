@@ -1,0 +1,22 @@
+#include "main.h"
+#include <ctype.h>
+/**
+ * int _islower(int c) - checks for lowercase characters
+ * @c: first operand
+ * islower - checj if the argument is a lower case
+ *
+ * Return: 1 if c is lowercase or 0
+ *
+ */
+
+int _islower(int c)
+{
+	if (islower(c))
+	{
+		return (1);
+	}
+	else
+	{
+		return (0);
+	}
+}
