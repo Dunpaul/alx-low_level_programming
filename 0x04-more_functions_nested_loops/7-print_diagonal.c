@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * print_diagonal
+ * print_diagonal - diagonal line
  *
  * @n: input figure
  * Return: 0
